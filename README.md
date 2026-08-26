@@ -147,6 +147,14 @@ Esta metodología está diseñada para garantizar una experiencia de aprendizaje
     <td>-</td>
     <td>17/Agosto/2026</td>
   </tr>
+<tr>
+    <td>4</td>
+    <td>Instancias y sumador de 4 bits</td>
+    <td><a href="/labs/02_lab02/README.md">lab02</a></td>
+    <td>-</td>
+    <td>09/Septiembre/2026</td>
+  </tr>
+
    <tr>
     <td>5</td>
     <td>Parcial 1</td>
