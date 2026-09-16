@@ -162,6 +162,13 @@ Esta metodología está diseñada para garantizar una experiencia de aprendizaje
     <td>-</td>
     <td>31/Agosto/2026</td>
   </tr>
+<tr>
+    <td>4</td>
+    <td>Decodificador y multiflexor</td>
+    <td><a href="/labs/03_lab03/README.md">lab03</a></td>
+    <td>-</td>
+    <td>25/Septiembre/2026</td>
+  </tr>
   </tr>
    <tr>
     <td>10</td>
