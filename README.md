@@ -174,7 +174,7 @@ Esta metodología está diseñada para garantizar una experiencia de aprendizaje
     <td>Lógica Secuancial</td>
     <td><a href="/labs/04_lab04/README.md">lab04</a></td>
     <td>-</td>
-    <td>25/Septiembre/2026</td>
+    <td>04/Octubre/2026</td>
 </tr>
   </tr>
    <tr>
