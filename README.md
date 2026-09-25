@@ -168,7 +168,14 @@ Esta metodología está diseñada para garantizar una experiencia de aprendizaje
     <td><a href="/labs/03_lab03/README.md">lab03</a></td>
     <td>-</td>
     <td>25/Septiembre/2026</td>
-  </tr>
+</tr>
+<tr>
+    <td>7-8</td>
+    <td>Lógica Secuancial</td>
+    <td><a href="/labs/04_lab04/README.md">lab04</a></td>
+    <td>-</td>
+    <td>25/Septiembre/2026</td>
+</tr>
   </tr>
    <tr>
     <td>10</td>
