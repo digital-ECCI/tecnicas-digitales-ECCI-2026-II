@@ -183,7 +183,14 @@ Esta metodología está diseñada para garantizar una experiencia de aprendizaje
     <td><a href="">Parcial 2</a></td>
     <td>-</td>
     <td>05/Octubre/2026</td>
-  </tr> 
+  </tr>
+<tr>
+    <td>11-12</td>
+    <td>FSM</td>
+    <td><a href="/labs/05_lab05/README.md">lab05</a></td>
+    <td>-</td>
+    <td>28/Octubre/2026</td>
+</tr> 
    <tr>
     <td>15 - 16</td>
     <td>Actividad evaluativa 3</td>
