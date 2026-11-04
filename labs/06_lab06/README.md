@@ -82,7 +82,7 @@ Mensajes sugeridos (todos representables en 7 segmentos; pueden personalizarse):
 El servo se posiciona con una señal **PWM de 50 Hz** (periodo de 20 ms), donde el **ancho del pulso** define el ángulo:
 
 - Pulso de **1 ms** → ≈ 0° (cerrojo **cerrado**).
-- Pulso de **2 ms** → ≈ 180° (cerrojo **abierto**).
+- Pulso de **x ms** → ≈ 90° (cerrojo **abierto**).
 
 Con el reloj de 50 MHz de la tarjeta:
 

@@ -196,7 +196,7 @@ Esta metodología está diseñada para garantizar una experiencia de aprendizaje
     <td>PWM caja fuerte</td>
     <td><a href="/labs/06_lab06/README.md">lab06</a></td>
     <td>-</td>
-    <td>28/Octubre/2026</td>
+    <td>11/Noviembre/2026</td>
 </tr> 
    <tr>
     <td>15 - 16</td>
