@@ -200,10 +200,10 @@ Esta metodología está diseñada para garantizar una experiencia de aprendizaje
 </tr> 
    <tr>
     <td>15 - 16</td>
-    <td>Actividad evaluativa 3</td>
-    <td><a href="">Actividad evaluativa3</a></td>
+    <td>Proyecto final - Actividad evaluativa 3 </td>
+    <td><a href="/labs/07_lab07/README.md">Actividad evaluativa 3</a></td>
     <td>-</td>
-    <td>09 o 16/Noviembre/2026</td>
+    <td>20 ó 23/Noviembre/2026</td>
   </tr> 
 </table>
 
